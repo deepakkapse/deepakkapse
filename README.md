@@ -1,9 +1,10 @@
-### Hi there 👋
+### Namaskaar 🙏,Welcome to my Profile
+### Deepak K here 
 
 <!--
 **deepakkapse/deepakkapse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,4 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&&color=#81170D)](https://www.linkedin.com/in/deepak-k-31a414172/)
+<br>
 <img src='https://github-readme-stats.vercel.app/api?username=deepakkapse&&show_icons=true&title_color=#81170D&icon_color=#81170D&text_color=000000&bg_color=F8E9FA'>
