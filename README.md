@@ -2,7 +2,7 @@
 ### Deepak K here 
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Twitter)](https://twitter.com/deepak_kapse29)
 [![Medium](https://img.shields.io/badge/-Medium-black.svg?style=flat-square&logo=Medium&colorB=000)](https://medium.com/@deepakkapse08)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&&color=#81170D)](https://www.linkedin.com/in/deepak-k-31a414172/)
+
 <!--
 **deepakkapse/deepakkapse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,7 +16,7 @@
 - 🤝 I’m looking to collaborate on ...open source contribution
 - 🤔 I’m looking for help with ...interview preperation
 - 💬 Ask me about ... technical and non technical
-- 📫 How to reach me: ... linkedin,twitter
+- 📫 How to reach me: ...[![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&&color=#81170D)](https://www.linkedin.com/in/deepak-k-31a414172/) 
 
 
 <br>
