@@ -8,7 +8,7 @@
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
 - 
 -->
 🔭 I’m currently working on ...MLOps+HybridCloud+Flutter
@@ -22,7 +22,7 @@
 <br>
 <img src='https://github-readme-stats.vercel.app/api?username=deepakkapse&&show_icons=true&title_color=#81170D&icon_color=#81170D&text_color=000000&bg_color=F8E9FA'>
 <br>
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
+
 
 
 
