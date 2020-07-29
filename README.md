@@ -16,7 +16,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 - 🤝 I’m looking to collaborate on ...open source contribution
 - 🤔 I’m looking for help with ...learning flutter
 - 💬 Ask me about ... technical and non technical
-- 📫 How to reach me: ...[![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&&color=#81170D)](https://www.linkedin.com/in/deepak-k-31a414172/) 
+- 📫 How to reach me: ....[![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&&color=#81170D)](https://www.linkedin.com/in/deepak-k-31a414172/) 
 
 
 <br>
