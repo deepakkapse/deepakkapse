@@ -13,7 +13,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 -->
 🔭 I’m currently working on ...AWS
 - 🌱 I’m currently learning ... Cloud tech
-- 🤝 I’m looking to collaborate on ...open source contribution + hackathon
+- 🤝 I’m looking to collaborate on ...open source contribution + hackathon🤝
 - 🤔 I’m looking for help with ...ds and algo.
 - 💬 Ask me about ... technical and non technical
 - 😄 Pronouns: ... He/His/Him 
@@ -21,12 +21,12 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 ___
 *Are you more curious then hop in 👇*<br><br>
 - 📫 How to reach me: ....[![Linkedin](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&&color=#81170D)](https://www.linkedin.com/in/deepak-k-31a414172/) 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-n-02a0a8192/)&nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nagraj1999)&nbsp;
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://aditya-nagraj1999.medium.com/)&nbsp;
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC024Byq-bO38IDC0y8IPL-A/featured)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-k-31a414172/)&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/deepak_kapse29)&nbsp;
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://deepakkapse08.medium.com/)&nbsp;
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCzjpz8bfw5wPO_-nXaGrr1Q)
 ___
-![](https://komarev.com/ghpvc/?username=Adityanagraj&color=green)
+![](https://komarev.com/ghpvc/?username=deepakkapse&color=green)
 
 
 <br>
