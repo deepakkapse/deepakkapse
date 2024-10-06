@@ -11,10 +11,10 @@
 NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats
 - 
 -->
-🔭 I’m currently working on ...AWS
-- 🌱 I’m currently learning ... Cloud tech
+🔭 I’m currently working on ...AWS,Docker,K8,Jenkins
+- 🌱 I’m currently learning ... Cloud tech and Devops
 - 🤝 I’m looking to collaborate on ...open source contribution + hackathon🤝
-- 🤔 I’m looking for help with ...ds and algo.
+- 🤔 I’m looking for help with ...ArgoCD
 - 💬 Ask me about ... technical and non technical
 - 😄 Pronouns: ... He/His/Him 
 - ⚡ Fun fact: ... learning
