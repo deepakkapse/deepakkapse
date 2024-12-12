@@ -12,7 +12,7 @@ NOTE: Top languages does not indicate my skill level or something like that, it'
 - 
 -->
 🔭 I’m currently working on ...AWS,Docker,K8,Jenkins
-- 🌱 I’m currently learning ... Cloud tech and Devops
+- 🌱 I’m currently learning ... Cloud,Devops,GenAI
 - 🤝 I’m looking to collaborate on ...open source contribution + hackathon🤝
 - 🤔 I’m looking for help with ...ArgoCD
 - 💬 Ask me about ... technical and non technical
